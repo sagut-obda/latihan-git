@@ -1,4 +1,4 @@
 Hi! Lu cukup update file ini aja buat latihan.
 Tulis Nama lu di line bawah, trus di push.
-
+1. Irvan H
 Eh tapi jangan lupa bikin branch baru dulu, baru dicommit, trus baru dipush.
